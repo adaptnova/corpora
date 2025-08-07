@@ -1,0 +1,3 @@
+data/extracted/*.warc
+data/extracted/*.xml
+data/extracted/stackoverflow*

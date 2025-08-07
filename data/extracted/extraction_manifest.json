@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-08-07T21:59:46.300073",
+  "files_extracted": 5,
+  "total_size_gb": 52.8,
+  "path": "/home/x/data/corpora/extracted",
+  "details": [
+    {
+      "status": "success",
+      "file": "stackoverflow_posts.7z",
+      "size_gb": 3.5
+    },
+    {
+      "status": "success",
+      "file": "entrepreneur/stackexchange/stackoverflow.com-Posts.7z",
+      "size_gb": 22
+    },
+    {
+      "status": "success",
+      "file": "entrepreneur/commoncrawl/CC-MAIN-2024-10-00000.warc.gz",
+      "size_gb": 1.1
+    },
+    {
+      "status": "success",
+      "file": "wikipedia/enwiki-latest-pages-articles.xml.bz2",
+      "size_gb": 2.2
+    },
+    {
+      "status": "success",
+      "file": "entrepreneur/wikipedia/enwiki-latest-pages-articles.xml.bz2",
+      "size_gb": 24
+    }
+  ]
+}
